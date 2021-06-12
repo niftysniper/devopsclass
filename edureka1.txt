@@ -1,4 +1,2 @@
-Hi This is test session
-
-Adding a new line
+hi this is file after deleted
 
